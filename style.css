@@ -1,0 +1,45 @@
+.t {
+    color: orange;
+}
+.a {
+    text-align: center;
+    text-decoration: line-through;
+    font: 35px ariel;
+    color:
+}
+.S {
+    text-decoration: underline;
+    background: red;
+    border: groove;
+    border-width: 10px
+}
+.A {
+    font: 19px;
+    text-transform: capitalize;
+    color: purple;
+}
+body {
+    background-image: url('myui.jpg');
+    background-image: width 80px;
+    background: linear-gradient(indigo,blue,green,yellow,orange,red);
+}
+.f {
+    text-transform: capitalize;
+    text-decoration: overline;
+    background-image: myui.jpg;
+    size: 65px;
+}
+
+.bhi
+
+{
+    text-decoration: overline;
+}
+
+
+.os {
+    size: 55px;
+    
+}
+.you{border: dotted ; border-color: purple; border-width: 20px;}
+.op{background-color: rgb(39,174,78);
